@@ -2,7 +2,7 @@
 
 <center>
   <div >
-    <img src="./pdf-screenshot.jpg" width="1009">
+    <img src="./pdf-screenshot.jpg" width="450">
   </div>
 </center>
 
